@@ -1,0 +1,1 @@
+Rozpakuj ZIP i wgraj wszystkie pliki do katalogu głównego publicznego repozytorium GitHub. Settings > Pages > Deploy from a branch > main > / (root). Otwórz opublikowany adres w Safari, Udostępnij > Do ekranu początkowego. Uruchom ikonę przy połączeniu z internetem, następnie sprawdź działanie w trybie samolotowym. Wyniki są lokalne dla przeglądarki/aplikacji.
